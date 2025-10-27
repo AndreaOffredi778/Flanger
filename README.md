@@ -50,3 +50,6 @@ Additionally, **Undo/Redo buttons** have been added to make parameter editing mo
 The plugin supports **stereo processing**, allowing for **phase delta modulation**.
 
 This enables phase offset modulation between the two channels, enhancing the **sense of movement and spatial depth** typical of a flanger effect.
+
+<img width="930" height="709" alt="flangeFlicker GUI" src="https://github.com/user-attachments/assets/c22f9b41-0b56-4df3-b793-faed5712c152" />
+
